@@ -1,6 +1,8 @@
 # Whisper IA in Docker
 > Requirements:
+
 > Docker in GPU: https://github.com/Vayioleta/Wiki/blob/main/Run%20Docker%20in%20GPU.md
+
 > NVIDIA CUDA
 
 # Run and Build
