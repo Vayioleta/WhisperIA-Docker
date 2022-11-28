@@ -1,9 +1,6 @@
 # Whisper IA in Docker
 > Requirements:
-
 > Docker in GPU: https://github.com/Vayioleta/Wiki/blob/main/Run%20Docker%20in%20GPU.md
-
-> NVIDIA CUDA
 
 # Run and Build
 > to Build it , Run this in the folder:
@@ -21,3 +18,7 @@
 `whisper "./audio.mp3" --task transcribe --model medium`
 > Translate audio:
 `whisper "/content/audio.mp3" --task translate --model medium`
+
+# Referencias ( thanks! )
+https://github.com/openai/whisper
+https://colab.research.google.com/drive/1CvvYPAFemIZdSOt9fhN541esSlZR7Ic6?usp=sharing#scrollTo=UlVRSbPC7IRJ
