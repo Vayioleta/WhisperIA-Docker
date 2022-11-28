@@ -20,5 +20,6 @@
 `whisper "/content/audio.mp3" --task translate --model medium`
 
 # Referencias ( thanks! )
-https://github.com/openai/whisper
-https://colab.research.google.com/drive/1CvvYPAFemIZdSOt9fhN541esSlZR7Ic6?usp=sharing#scrollTo=UlVRSbPC7IRJ
+> https://github.com/openai/whisper
+
+> https://colab.research.google.com/drive/1CvvYPAFemIZdSOt9fhN541esSlZR7Ic6?usp=sharing#scrollTo=UlVRSbPC7IRJ
